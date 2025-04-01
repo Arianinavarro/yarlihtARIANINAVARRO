@@ -1,0 +1,2 @@
+se crean las carpetas de la estructura con el comando mkdir y se agregan archivos utilizando el comando touch.
+dentro de la carpeta principal creamos estas carpetas y archivos: css, js, assets, index.html, README.md, requirements.
